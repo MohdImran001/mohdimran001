@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **mohdimran.work@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1aGCTl7OmLeYXoxcsUWd7EqCMWuw45zGqe0IZs3zGiE4/edit?usp=sharing](https://docs.google.com/document/d/1aGCTl7OmLeYXoxcsUWd7EqCMWuw45zGqe0IZs3zGiE4/edit?usp=sharing)
+- 📄 Know about my experiences [Read my resume here !](https://docs.google.com/document/d/1aGCTl7OmLeYXoxcsUWd7EqCMWuw45zGqe0IZs3zGiE4/edit?usp=sharing)
 
 - ⚡ Fun fact **I love coffee**
 
