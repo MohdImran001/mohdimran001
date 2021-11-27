@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohdimran05" target="blank"><img src="https://img.shields.io/twitter/follow/mohdimran05?logo=twitter&style=for-the-badge" alt="mohdimran05" /></a> </p>
 
-- 🔭 I’m currently working on [Crove](https://crove.app)
+- 🔭 I’m working as a freelancer.
 
 - 🌱 I’m currently learning **Node.js, Python, AWS Lambda, Serverless Apps, Multithreading...**
 
@@ -18,13 +18,13 @@
 
 - 📝 I regularly write articles on [https://mohammad-imran.hashnode.dev/](https://mohammad-imran.hashnode.dev/)
 
-- 💬 Ask me about **Javascript and React.js**
+- 💬 Ask me anything about **C++, Javascript, Node.js, React.js and Firebase**
 
 - 📫 How to reach me **mohdimran.work@gmail.com**
 
 - 📄 Know about my experiences [Read my resume here !](https://docs.google.com/document/d/1aGCTl7OmLeYXoxcsUWd7EqCMWuw45zGqe0IZs3zGiE4/edit?usp=sharing)
 
-- ⚡ Fun fact **I love coffee**
+- ⚡ Fun fact **I love Apple products but I don't have one**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
