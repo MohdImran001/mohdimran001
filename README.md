@@ -5,18 +5,22 @@
 
 - 🌱 I’m currently learning [System Design](https://github.com/donnemartin/system-design-primer)
 
-- 👨‍💻 Download my Resume from [https://docs.google.com/document/d/1aGCTl7OmLeYXoxcsUWd7EqCMWuw45zGqe0IZs3zGiE4/edit?usp=sharing](https://docs.google.com/document/d/1aGCTl7OmLeYXoxcsUWd7EqCMWuw45zGqe0IZs3zGiE4/edit?usp=sharing)
+- 👨‍💻 Download my Resume from [Google Docs](https://docs.google.com/document/d/1aGCTl7OmLeYXoxcsUWd7EqCMWuw45zGqe0IZs3zGiE4/edit?usp=sharing)
 
-- 📝 I have written some good articles on Medium [https://medium.com/@mohammad-imran](https://medium.com/@mohammad-imran)
+- 📝 I have written some good articles on Medium [@mohammad-imran](https://medium.com/@mohammad-imran)
 
 - 💬 Ask me about anything related to **Computer Science, Node.js, AWS S3, AWS Lambda, Javascript, Typescript, React.js, Gatsby.js, and Next.js**
 
-- 📫 You can reach out to me via Email or LinkedIn (below)) **mohdimran.work@gmail.com**
+- 📫 You can reach out to me via Email or LinkedIn (below) **mohdimran.work@gmail.com**
 
-- 📄 You can learn more about me on my website [https://mohammad-imrans-stellar-site.webflow.io/](https://mohammad-imrans-stellar-site.webflow.io/)
+- 📄 You can learn more about me on my website [mohammad-imran](https://mohammad-imrans-stellar-site.webflow.io/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+
+[How I developed a serverless function on AWS Lambda for converting PDF files into images.](https://medium.com/@mohammad-imran/converting-pdf-into-images-using-python-on-aws-lambda-8f34777af212)
+[How I learned Topological Sort](https://medium.com/@mohammad-imran/understanding-topological-sorting-with-kahns-algo-8af5a588dd0e)
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
