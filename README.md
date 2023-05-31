@@ -9,7 +9,7 @@
 
 - 📝 I have written some good articles on Medium [@mohammad-imran](https://medium.com/@mohammad-imran)
 
-- 💬 Ask me about anything related to **Computer Science, Node.js, AWS S3, AWS Lambda, Javascript, Typescript, React.js, Gatsby.js, and Next.js**
+- 💬 Ask me about anything related to **C++, Node.js, Javascript, Python and AWS)**
 
 - 📫 You can reach out to me via Email or LinkedIn (below) **mohdimran.work@gmail.com**
 
